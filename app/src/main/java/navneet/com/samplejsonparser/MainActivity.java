@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     private RecyclerView mRecyclerView;
     private ProgressBar mProgressBar;
     private final String TAG = "MainActivity";
-    private final String BASE_URL = "https://navneet7k.github.io/";
+    private final String BASE_URL = "https://yiann0s.github.io/";
     public static final String HEADER_CACHE_CONTROL = "Cache-Control";
     public static final String HEADER_PRAGMA = "Pragma";
     private final Long cacheSize = (long) (5 * 1024 * 1024);

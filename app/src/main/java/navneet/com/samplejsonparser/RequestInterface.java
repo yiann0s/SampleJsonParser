@@ -10,6 +10,6 @@ import retrofit2.http.Url;
  * Created by Navneet Krishna on 16/12/18.
  */
 interface RequestInterface {
-    @GET("sample_array.json")
+    @GET("output.json")
     Call<List<CarModel>> getJson();
 }
